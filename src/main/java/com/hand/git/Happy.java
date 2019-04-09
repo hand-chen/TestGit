@@ -6,6 +6,8 @@ public class Happy {
 		System.out.println("111666");
 		System.out.println("update zw 666");
 
+		System.out.println("update by wangwei ");
+
 	}
 
 }
