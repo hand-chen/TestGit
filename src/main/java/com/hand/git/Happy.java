@@ -3,8 +3,8 @@ package com.hand.git;
 public class Happy {
 	
 	public static void main(String[] args) {
-		System.out.println("我是master 2");
-		System.out.println("我是hot_zw 1");
+		System.out.println("鎴戞槸master 2");
+		System.out.println("浣犳槸hot_zw 1");
 
 	}
 
